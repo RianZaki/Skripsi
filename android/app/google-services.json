@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518186958055",
+    "project_id": "dynamic-link-flutter-d93e8",
+    "storage_bucket": "dynamic-link-flutter-d93e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518186958055:android:bdb840164ed6a221923642",
+        "android_client_info": {
+          "package_name": "com.example.recything_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3X03XrLOX-QBsbudTa7Hv2R05nkv3ndg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
